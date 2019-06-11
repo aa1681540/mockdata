@@ -1,0 +1,7 @@
+[
+  	{ "id": "bitcoin", "name": "Bitcoin", "symbol": "BTC", "rank": "1", "price_usd":"573.137", "price_btc":"1.0" },
+  	{ "id": "etherium", "name": "Etherium", "symbol": "ETH", "rank": "2", "price_usd":"12.1844", "price_btc":"0.02" },
+  	{ "id": "kakahium", "name": "Kakahium", "symbol": "KKH", "rank": "3", "price_usd":"73.137", "price_btc":"1.0" },
+  	{ "id": "hrenoin", "name": "Hrenoin", "symbol": "HRN", "rank": "4", "price_usd":"173.137", "price_btc":"1.0" },
+  	{ "id": "nahernadium", "name": "Nahernadium", "symbol": "NHRN", "rank": "5", "price_usd":"53.137", "price_btc":"1.0" }
+]
